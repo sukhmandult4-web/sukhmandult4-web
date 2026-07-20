@@ -1,15 +1,5 @@
 # Hi there, I'm Sukhman Dult 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Full-Stack+Web+Developer;Python+%7C+JavaScript+%7C+NumPy+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukhmandult4-web&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/sukhmandult4-web?label=Followers&style=social" />
-</p>
-
----
 
 # 💫 About Me
 
