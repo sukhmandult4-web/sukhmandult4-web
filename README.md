@@ -105,7 +105,7 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmandult4-web&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -113,6 +113,9 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmandult4-web&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukhmandult4-web&theme=tokyonight&no-frame=true&margin-w=15)
 ---
 
 # 🏆 2026 Goals
