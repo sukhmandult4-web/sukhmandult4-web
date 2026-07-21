@@ -115,7 +115,8 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukhmandult4-web&theme=tokyonight&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukhmandult4-web&theme=tokyonight&no-frame=true&row=1&column=7)
+
 ---
 
 # 🏆 2026 Goals
