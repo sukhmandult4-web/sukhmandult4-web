@@ -105,11 +105,10 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmandult4-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmandult4-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true)
 
