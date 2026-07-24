@@ -107,7 +107,7 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 ---
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true)
 
 
 
