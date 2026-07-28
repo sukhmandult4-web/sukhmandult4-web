@@ -86,7 +86,7 @@ An intelligent Python assistant featuring:
 - Task Management
 - Productivity Features
 
----
+
 
 ## 🌐 Portfolio Website
 
@@ -106,7 +106,7 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 ---
 
-
+# 📊 Git Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true)
 
 
