@@ -118,6 +118,7 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 - ✅ Solve **500+ DSA Problems**
 - ✅ Build **15+ Real-World Projects**
 - ✅ Master JavaScript & React
+- ✅ Learn Seaborn , scikitlearn
 - ✅ Learn Node.js & Backend Development
 - ✅ Master NumPy, Pandas & Matplotlib
 - ✅ Learn Machine Learning
