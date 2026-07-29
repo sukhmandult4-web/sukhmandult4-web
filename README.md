@@ -72,7 +72,7 @@ A responsive clone of the Myntra homepage built using HTML and CSS.
 - Flexbox
 - Responsive Design
 
----
+
 
 
 
@@ -92,7 +92,7 @@ An intelligent Python assistant featuring:
 
 Personal portfolio showcasing my projects, skills, and learning journey.
 
----
+
 
 # 📚 Currently Learning
 
@@ -108,8 +108,6 @@ Personal portfolio showcasing my projects, skills, and learning journey.
 
 # 📊 Git Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true)
-
-
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true)
 
