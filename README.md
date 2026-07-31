@@ -171,11 +171,7 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 
 ---
 
-# 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sukhmandult4-web\&theme=tokyonight\&no-frame=true\&margin-w=15\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 # 🗺️ Learning Roadmap
 
