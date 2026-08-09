@@ -44,3 +44,13 @@ I enjoy turning ideas into practical projects, improving my problem-solving skil
 🤖 Machine Learning Fundamentals
 🌐 Full-Stack Development
 💼 Internship Preparation
+
+🛠️ Tech Stack
+👨‍💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Languages" /> </p>
+📚 Libraries & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,react" alt="Libraries and frameworks" /> </p>
+⚙️ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Tools and platforms" /> </p>
+
+Currently learning: JavaScript → React → Backend Development → Machine Learning → Deep Learning
