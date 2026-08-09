@@ -1,34 +1,23 @@
 # Hi there, I'm Sukhman Dult 👋
 
-🎓 **First-Year B.Tech Computer Science Student**
-
-💻 **Aspiring AI Engineer | Software Developer | Full-Stack Web Developer**
-
-I enjoy building software that solves real-world problems through Artificial Intelligence, automation, and modern web development. I'm continuously improving my problem-solving skills through Data Structures & Algorithms while expanding my knowledge of JavaScript, Machine Learning, and Full-Stack Development.
-
 ---
 
 # 💫 About Me
 
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💻 Building projects with **Python, JavaScript, HTML & CSS**
-- 📚 Practicing **Data Structures & Algorithms**
-- 🌐 Learning **Full-Stack Web Development**
-- 🧠 Improving problem-solving and programming fundamentals
-- 🚀 Preparing for **Software Development & AI Internships**
-- 🎯 Long-term goal: **Become an AI Engineer**
+🎓 First-Year B.Tech Computer Science Student
 
----
+💻 Aspiring **AI Engineer** | **Software Developer** | **Full-Stack Web Developer**
 
-# 🚀 Current Focus
+I enjoy building software that solves real-world problems through Artificial Intelligence, automation, and modern web development. I'm continuously improving my problem-solving skills through Data Structures & Algorithms while expanding my knowledge of JavaScript, Machine Learning, and Full-Stack Development.
 
-- 🟨 JavaScript (ES6+)
-- 📚 Data Structures & Algorithms
-- 🐍 Python
-- 📊 NumPy & Pandas
-- 🤖 Machine Learning
-- 🌐 Full-Stack Development
-- 💼 Internship Preparation
+### 🚀 Current Focus
+
+- 🌱 Learning **JavaScript (ES6+)**, **NumPy**, and **Data Structures & Algorithms**
+- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
+- 🌐 Building responsive websites and real-world Python projects
+- 📚 Preparing for Software Development Internships
+- 💡 Writing clean, maintainable, and efficient code
+- 🎯 Long-Term Goal: Become an AI Engineer working on impactful products
 
 ---
 
@@ -36,26 +25,32 @@ I enjoy building software that solves real-world problems through Artificial Int
 
 ## 👨‍💻 Languages
 
-- 🐍 Python
-- ⚡ C
-- 🟨 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
+
+
+
+
+
+
+
+---
 
 ## 📚 Libraries & Frameworks
 
-- 🔢 NumPy
-- 🐼 Pandas
-- 📈 Matplotlib
-- 📉 Seaborn
-- ⚛️ React.js
 
-## ⚙️ Tools & Platforms
 
-- 🔧 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 🚀 Netlify
+
+
+
+---
+
+## ⚙️ Tools
+
+
+
+
+
+
+
 
 ---
 
@@ -63,40 +58,42 @@ I enjoy building software that solves real-world problems through Artificial Int
 
 ## ⭐ DSA With Python
 
-A structured repository documenting my journey of learning **Data Structures & Algorithms using Python**.
+A structured repository documenting my journey of learning Data Structures & Algorithms in Python.
 
 ### Features
 
-- 📖 Comprehensive DSA Notes
+- 📖 Comprehensive Notes
 - ⚡ Time & Space Complexity
 - 💡 Interview Questions
 - 🧩 LeetCode Solutions
-- 🐍 Python Implementations
+- 📚 Python Implementations
 - 📈 Continuous Progress Tracking
 
-### Tech Used
+**Tech Used**
 
-`Python` `DSA` `Git` `GitHub` `Markdown`
-
-🔗 **Repository:**  
-https://github.com/sukhmandult4-web/DSA_WITH_PYTHON
+- Python
+- Git
+- GitHub
+- Markdown
 
 ---
 
 ## ⭐ Myntra Homepage Clone
 
-A responsive frontend clone of the Myntra homepage built using HTML and CSS.
+A responsive frontend clone of the Myntra homepage built using modern HTML and CSS techniques.
 
 ### Features
 
-- 📱 Responsive Design
-- 🎨 Clean UI
-- 📦 Flexbox Layout
-- 🧹 Organized Code Structure
+- Responsive Design
+- Flexbox Layout
+- Clean UI
+- Organized Code Structure
 
-### Tech Used
+**Tech Used**
 
-`HTML5` `CSS3` `Flexbox`
+- HTML5
+- CSS3
+- Flexbox
 
 ---
 
@@ -106,82 +103,92 @@ An intelligent Python-based assistant designed to improve productivity.
 
 ### Features
 
-- 🌦️ Weather Updates
-- 🎙️ Voice Feedback
-- ⏰ Reminder System
-- ✅ Task Management
-- ⚙️ Productivity Tools
-- 🤖 Automation
+- Weather Updates
+- Voice Feedback
+- Reminder System
+- Task Management
+- Productivity Tools
 
-### Tech Used
+**Tech Used**
 
-`Python` `APIs` `Automation`
+- Python
+- APIs
+- Automation
 
 ---
 
 ## ⭐ Portfolio Website
 
-My personal portfolio showcasing my projects, skills, and learning journey.
+A personal portfolio showcasing my projects, skills, and learning journey.
 
 ### Features
 
-- 🌐 Responsive Design
-- 🎨 Modern UI
-- 📂 Project Showcase
-- 👨‍💻 About Section
-- 📬 Contact Information
+- Responsive Design
+- Project Showcase
+- About Me
+- Contact Information
+- Modern UI
 
-### Tech Used
+**Tech Used**
 
-`HTML` `CSS` `JavaScript`
-
-🔗 **Portfolio:**  
-https://sukhcodes.netlify.app
+- HTML
+- CSS
+- JavaScript
 
 ---
 
 # 📚 Currently Learning
 
-| Technology | Status |
-|---|---|
-| 🟨 JavaScript | 🟢 Learning |
-| 📚 Data Structures & Algorithms | 🟢 Learning |
-| 📊 NumPy | 🟢 Learning |
-| 🐼 Pandas | 🟢 Learning |
-| 📈 Matplotlib | 🟢 Learning |
-| 📉 Seaborn | 🟡 Learning |
-| ⚛️ React.js | 🟡 Learning |
-| 🛠️ Backend Development | 🟡 Exploring |
-| 🤖 Machine Learning | 🟡 Exploring |
-| 🧠 Deep Learning | 🔵 Planned |
+- ✅ Data Structures & Algorithms
+- ✅ JavaScript (ES6+)
+- ✅ NumPy
+- ⏳ React.js
+- ⏳ Backend Development
+- ⏳ Machine Learning Fundamentals
+- ⏳ Artificial Intelligence
+- ⏳ Deep Learning
 
 ---
+
+# 📊 GitHub Analytics
+
+
+
+---
+
+# 📈 Contribution Graph
+
+
+
+---
+
+
 
 # 🗺️ Learning Roadmap
 
 ```text
-🐍 Python                         ██████████ 100%
+🐍 Python                     ██████████ 100%
 
-🌐 HTML                           ██████████ 100%
+🌐 HTML                       ██████████ 100%
 
-🎨 CSS                            ██████████ 100%
+🎨 CSS                        ██████████ 100%
 
-🟨 JavaScript                     ███████░░░  70%
+🟨 JavaScript                 ███████░░░ 70%
 
-📚 Data Structures & Algorithms   ██████░░░░  60%
+📚 Data Structures & Algorithms ██████░░░░ 60%
 
-📊 NumPy                          ████████░░  80%
+📊 NumPy                      ████████░░ 80%
 
-🐼 Pandas                         ████████░░  80%
+🐼 Pandas                     ████████░░ 80%
 
-📈 Matplotlib                     ███████░░░  70%
+📈 Matplotlib                 ███████░░░ 70%
 
-📉 Seaborn                        ███░░░░░░░  30%
+📉 Seaborn                    ███░░░░░░░ 30%
 
-⚛️ React.js                       ███░░░░░░░  30%
+⚛ React.js                   ███░░░░░░░ 30%
 
-🛠️ Backend Development            ██░░░░░░░░  20%
+🛠 Backend Development         ██░░░░░░░░ 20%
 
-🤖 Machine Learning               ██░░░░░░░░  20%
+🤖 Machine Learning           ██░░░░░░░░░ 20%
 
-🧠 Deep Learning                  █░░░░░░░░░  10%
+🧠 Deep Learning              █░░░░░░░░░ 10%
