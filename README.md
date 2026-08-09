@@ -198,9 +198,11 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 🤖 Machine Learning              ██░░░░░░░░ 20%
 
 🧠 Deep Learning                 █░░░░░░░░░ 10%
-
+```
 ---
 
+
+# 🎯 2026 Goals
 # 🙏 Credits & Acknowledgements
 
 This profile README was created and maintained by **Sukhman Dult**.
