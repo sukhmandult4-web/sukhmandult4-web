@@ -232,3 +232,90 @@ https://sukhcodes.netlify.app
 🤖 Machine Learning              ██░░░░░░░░ 20%
 
 🧠 Deep Learning                 █░░░░░░░░░ 10%
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhmandult4-web)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sukhcodes.netlify.app)
+
+</p>
+
+---
+
+# 📌 Fun Fact
+
+> ⚡ I believe consistency beats intensity. I try to learn, code, and improve every single day.
+
+---
+
+# 💭 Quote I Live By
+
+> **"Consistency compounds. Small improvements every day lead to extraordinary results."**
+
+---
+
+# 🙏 Credits & Acknowledgements
+
+This profile README was created and maintained by **Sukhman Dult**.
+
+### 🛠️ Technologies & Resources
+
+- 🐙 **GitHub** — Repository hosting and developer profile
+- 🏷️ **Shields.io** — Technology and profile badges
+- 📊 **GitHub Readme Stats** — GitHub statistics and language cards
+- 🔥 **GitHub Readme Streak Stats** — Contribution streak visualization
+- 📈 **GitHub Activity Graph** — Contribution activity visualization
+- ⌨️ **Readme Typing SVG** — Animated profile header
+- 🚀 **Netlify** — Portfolio deployment
+- 💻 **Visual Studio Code** — Development environment
+- 🔧 **Git** — Version control
+
+### 📚 Learning Resources
+
+My learning journey is supported by documentation, tutorials, courses, open-source projects, and the developer community.
+
+- **MDN Web Docs** — HTML, CSS & JavaScript
+- **Python Documentation** — Python programming
+- **NumPy Documentation** — Numerical computing
+- **Pandas Documentation** — Data analysis
+- **React Documentation** — Frontend development
+- **GitHub Documentation** — Git and GitHub
+- **LeetCode** — Data Structures & Algorithms practice
+
+---
+
+# ⭐ Support
+
+If you find any of my projects useful or interesting:
+
+⭐ Star the repository  
+🐛 Report issues  
+💡 Suggest improvements  
+🤝 Contribute to open-source projects  
+
+Every contribution and piece of feedback helps me improve.
+
+---
+
+# 📄 License
+
+Unless otherwise stated, individual projects in my repositories may have their own licenses.
+
+Please check the **LICENSE** file of the respective repository before using or distributing project code.
+
+---
+
+<p align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Improving
+
+**Made with ❤️ and lots of ☕ by Sukhman Dult**
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
