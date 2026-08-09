@@ -1,14 +1,7 @@
 # Hi there, I'm Sukhman Dult 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukhmandult4-web&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sukhmandult4-web?label=Followers&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sukhmandult4-web?label=Stars&style=flat" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Software+Developer;Full-Stack+Web+Developer;Building+%26+Learning+Every+Day" alt="Typing SVG" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=sukhmandult4-web&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sukhmandult4-web)
+[![GitHub Followers](https://img.shields.io/github/followers/sukhmandult4-web?label=Followers&style=flat)](https://github.com/sukhmandult4-web?tab=followers)
 
 ---
 
@@ -36,13 +29,9 @@ I enjoy building software that solves real-world problems through Artificial Int
 ## 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
@@ -50,11 +39,8 @@ I enjoy building software that solves real-world problems through Artificial Int
 ## 📚 Libraries & Frameworks
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
@@ -62,11 +48,8 @@ I enjoy building software that solves real-world problems through Artificial Int
 ## ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
@@ -92,9 +75,6 @@ A structured repository documenting my journey of learning Data Structures & Alg
 - Git
 - GitHub
 - Markdown
-
-🔗 **Repository:**  
-https://github.com/sukhmandult4-web/DSA_WITH_PYTHON
 
 ---
 
@@ -155,9 +135,6 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 - CSS
 - JavaScript
 
-🔗 **Portfolio:**  
-https://sukhcodes.netlify.app
-
 ---
 
 # 📚 Currently Learning
@@ -165,9 +142,6 @@ https://sukhcodes.netlify.app
 - ✅ Data Structures & Algorithms
 - ✅ JavaScript (ES6+)
 - ✅ NumPy
-- ⏳ Pandas
-- ⏳ Matplotlib
-- ⏳ Seaborn
 - ⏳ React.js
 - ⏳ Backend Development
 - ⏳ Machine Learning Fundamentals
@@ -178,29 +152,21 @@ https://sukhcodes.netlify.app
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhmandult4-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmandult4-web&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmandult4-web&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmandult4-web&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sukhmandult4-web&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhmandult4-web&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -235,30 +201,6 @@ https://sukhcodes.netlify.app
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhmandult4-web)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sukhcodes.netlify.app)
-
-</p>
-
----
-
-# 📌 Fun Fact
-
-> ⚡ I believe consistency beats intensity. I try to learn, code, and improve every single day.
-
----
-
-# 💭 Quote I Live By
-
-> **"Consistency compounds. Small improvements every day lead to extraordinary results."**
-
----
-
 # 🙏 Credits & Acknowledgements
 
 This profile README was created and maintained by **Sukhman Dult**.
@@ -268,8 +210,8 @@ This profile README was created and maintained by **Sukhman Dult**.
 - 🐙 **GitHub** — Repository hosting and developer profile
 - 🏷️ **Shields.io** — Technology and profile badges
 - 📊 **GitHub Readme Stats** — GitHub statistics and language cards
-- 🔥 **GitHub Readme Streak Stats** — Contribution streak visualization
-- 📈 **GitHub Activity Graph** — Contribution activity visualization
+- 🔥 **GitHub Readme Streak Stats** — GitHub contribution streak visualization
+- 📈 **GitHub Activity Graph** — GitHub contribution activity visualization
 - ⌨️ **Readme Typing SVG** — Animated profile header
 - 🚀 **Netlify** — Portfolio deployment
 - 💻 **Visual Studio Code** — Development environment
@@ -310,12 +252,14 @@ Please check the **LICENSE** file of the respective repository before using or d
 
 ---
 
-<p align="center">
+# 🚀 Keep Learning • Keep Building • Keep Improving
 
-### 🚀 Keep Learning • Keep Building • Keep Improving
+<p align="center">
 
 **Made with ❤️ and lots of ☕ by Sukhman Dult**
 
 ⭐ **Thanks for visiting my profile!**
 
 </p>
+
+---
